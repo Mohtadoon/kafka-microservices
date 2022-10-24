@@ -1,0 +1,24 @@
+# Mac files
+.DS_Store
+*/.DS_Store
+
+# Output
+/target
+/classes
+/bin
+/out
+
+# Libs and docs
+/lib
+/docs
+*.jar
+*.class
+
+# Settings
+/.settings
+/.idea
+*.ipr
+*.iws
+*.iml
+.classpath
+.project

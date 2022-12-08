@@ -20,5 +20,7 @@
 *.ipr
 *.iws
 *.iml
+*.lst
+*.log
 .classpath
 .project

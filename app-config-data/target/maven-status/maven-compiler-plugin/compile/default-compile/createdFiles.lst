@@ -1,3 +1,5 @@
+com/microservices/demo/config/ElasticQueryServiceConfigData.class
+com/microservices/demo/config/ElasticQueryConfigData.class
 com/microservices/demo/config/TwitterToKafkaServiceConfigData.class
 com/microservices/demo/config/ElasticConfigData.class
 com/microservices/demo/config/KafkaConsumerConfigData.class
